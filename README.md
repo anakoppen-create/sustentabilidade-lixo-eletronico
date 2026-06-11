@@ -1,9 +1,4 @@
-# sustentabilidade-lixo-eletronicolixo-
--site/
-│
-├── index.html
-├── style.css
-└── imagens/
+# sustentabilidade-lixo-eletronico
     └── lixo-eletronico.jpg
 <!DOCTYPE html>
 <html lang="pt-BR">

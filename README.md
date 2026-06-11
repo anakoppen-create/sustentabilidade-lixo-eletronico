@@ -80,15 +80,3 @@ nav {
     padding: 10px;
 }
 
-nav a {
-    color: white;
-    text-decoration: none;
-    margin: 15px;
-    font-weight: bold;
-}
-
-section {
-    background: white;
-    margin: 20px;
-    padding: 20px;
-    border-radius: 10px;

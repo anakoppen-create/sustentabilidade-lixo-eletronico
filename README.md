@@ -92,11 +92,3 @@ section {
     margin: 20px;
     padding: 20px;
     border-radius: 10px;
-}
-
-footer {
-    background-color: #2e8b57;
-    color: white;
-    text-align: center;
-    padding: 15px;
-}

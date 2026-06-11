@@ -67,16 +67,3 @@ body {
     color: #333;
 }
 
-header {
-    background-color: #2e8b57;
-    color: white;
-    text-align: center;
-    padding: 30px;
-}
-
-nav {
-    background-color: #1f5f3a;
-    text-align: center;
-    padding: 10px;
-}
-
